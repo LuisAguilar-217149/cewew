@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisa\\source\\repos\\0-21-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6FF596-AB36-40D3-90A2-F5DE26595FFA}|0-21-2024\\0-21-2024.vcxproj|C:\\Users\\luisa\\source\\repos\\0-21-2024\\0-21-2024\\0-21-2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E6FF596-AB36-40D3-90A2-F5DE26595FFA}|0-21-2024\\0-21-2024.vcxproj|solutionrelative:0-21-2024\\0-21-2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0-21-2024.cpp",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\0-21-2024\\0-21-2024\\0-21-2024.cpp",
+              "RelativeDocumentMoniker": "0-21-2024\\0-21-2024.cpp",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\0-21-2024\\0-21-2024\\0-21-2024.cpp",
+              "RelativeToolTip": "0-21-2024\\0-21-2024.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T19:23:00.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
